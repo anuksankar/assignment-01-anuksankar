@@ -22,7 +22,15 @@ https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD
 - Read ads (between 5&10)
 - What are companies looking for in skills, experience, competencies?
   * Answer:
+  ** Skills: The main skills that almost all companies are looking for are Hadoop, Spartk, Scala, Java, Python,
+SQL, Unix and or Linux.
+  ** Experience: The ads called for people with 5+ years of work experience, a Master's degree in Math, Computer Science or any other quantitative field, experience in developing and implementing big data solutions, hands on work experience in the above mentioned skills.   
+  ** Competencies: Competencies included excellent problem solving ability, project management and communication skills, Database Architecture and Data Modeling skills, experience in building and optimizing pipelines.
 
+
+
+
+ 
 
 
 
